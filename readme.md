@@ -1,6 +1,6 @@
 This project is my computer architecture assignment in XJTU: to implement a pipeline simulator based on MIPS32.
 
-I did this in MacOs 12.2.1, so you'd better running this in UNIX like system or bash/wsl in windows(maybe, i hadn't try). 
+I did this in macOS 12.2.1, so you'd better running this in UNIX like system or bash/wsl in windows(maybe, i hadn't try). 
 
  To run this project, do these following:
 
